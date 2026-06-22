@@ -1,0 +1,6 @@
+{
+  "name": "Sharq va G'arb ta'limi",
+  "description": "Sharqiy intizom va G'arbiy ijodiy erkinlikni bog'lovchi interaktiv, quvnoq va innovatsion boshlang'ich sinf ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
